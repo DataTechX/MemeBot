@@ -1,0 +1,32 @@
+{
+  "name": "nvg-project",
+  "version": "1.0.0",
+  "description": "โปรเจคเขียนเล่น",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    ".": "node main.js"
+  },
+  "author": "Sansamit_#1449",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "discord-backup": "^2.5.0",
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "erela.js": "^2.3.3",
+    "eris": "^0.15.1",
+    "fs": "0.0.1-security",
+    "hastebin-gen": "^2.0.5",
+    "lavasfy": "^2.3.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.5",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.2.3",
+    "nodemon": "^2.0.12",
+    "os": "^0.1.2",
+    "quick.db": "^7.1.3"
+  }
+}

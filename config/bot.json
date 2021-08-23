@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "spotify": {
+        "clientID": "",
+        "clientSecret": ""
+    },
+    "lavalink": {
+        "host": "localhost",
+        "port": "6666",
+        "password": "lynn@1234"
+    }  
+}
