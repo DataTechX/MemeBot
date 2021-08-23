@@ -23,3 +23,6 @@
 [School Life](https://schoollifebot.xyz/invite)
 
 [Discord](https://discord.gg/HhYDzjjpK6)
+
+![](https://github.com/JKTheRipperTH/memebot/blob/main/team.png)
+
